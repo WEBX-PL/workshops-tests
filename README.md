@@ -17,3 +17,6 @@
 1. run `pip install -r requirements.txt`
 2. run `python manage.py runserver`
 3. enter `http://127.0.0.1:8000/` if you see website, you are ready!
+
+# tests
+1. run `pytest`
